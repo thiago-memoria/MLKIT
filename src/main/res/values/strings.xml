@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ERP</string>
+    <string name="barcode_qr_code_scanner">Barcode &amp; QR Code Scanner</string>
+</resources>
